@@ -12,13 +12,14 @@
     },
     {
       "email": "deneme@linor.com",
-      "password": "sifre123",
+      "password": "",
       "firebaseUID": "test456",
-      "displayName": "Deneme Kullanici",
+      "displayName": "Deneme",
       "dataLocation": "firestore:/users/test456",
-      "updatedAt": "2026-05-26T16:37:48.207Z",
+      "updatedAt": "2026-05-26T16:56:04.594Z",
       "createdAt": "2026-05-26T16:34:08.231Z",
-      "aks": "AKS-RSMZ0R-4IatQw-Prqlkq-2Ut7fM"
+      "aks": "AKS-RSMZ0R-4IatQw-Prqlkq-2Ut7fM",
+      "photoURL": "https://i.ibb.co/test.jpg"
     },
     {
       "email": "kuzeymurt00@gmail.com",
