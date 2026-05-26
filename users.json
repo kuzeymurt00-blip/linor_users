@@ -1,1 +1,12 @@
-{"users":[]}
+{
+  "users": [
+    {
+      "email": "test@linor.com",
+      "firebaseUID": "test123",
+      "displayName": "Test Kullanici",
+      "dataLocation": "firestore:/users/test123",
+      "updatedAt": "2026-05-26T16:30:54.609Z",
+      "createdAt": "2026-05-26T16:30:54.609Z"
+    }
+  ]
+}
