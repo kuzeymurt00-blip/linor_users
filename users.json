@@ -5,8 +5,10 @@
       "firebaseUID": "test123",
       "displayName": "Test Kullanici",
       "dataLocation": "firestore:/users/test123",
-      "updatedAt": "2026-05-26T16:30:54.609Z",
-      "createdAt": "2026-05-26T16:30:54.609Z"
+      "updatedAt": "2026-05-26T16:37:47.121Z",
+      "createdAt": "2026-05-26T16:30:54.609Z",
+      "password": "test123",
+      "aks": "AKS-QsyYzF-WrwnE0-Bhzvfw-EqtJNx"
     },
     {
       "email": "deneme@linor.com",
