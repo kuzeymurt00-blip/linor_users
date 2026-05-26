@@ -19,6 +19,16 @@
       "updatedAt": "2026-05-26T16:37:48.207Z",
       "createdAt": "2026-05-26T16:34:08.231Z",
       "aks": "AKS-RSMZ0R-4IatQw-Prqlkq-2Ut7fM"
+    },
+    {
+      "email": "kuzeymurt00@gmail.com",
+      "password": "",
+      "aks": "AKS-g8GhxZ-NaW6Ti-QNRW4s-dMXrjH",
+      "firebaseUID": "OsY2BfD8nWc66BcOFbtlDnnaNa72",
+      "displayName": "Kuzey Murat",
+      "dataLocation": "firestore:/users/OsY2BfD8nWc66BcOFbtlDnnaNa72",
+      "updatedAt": "2026-05-26T16:38:47.316Z",
+      "createdAt": "2026-05-26T16:38:47.316Z"
     }
   ]
 }
