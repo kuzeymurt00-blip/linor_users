@@ -31,6 +31,17 @@
       "updatedAt": "2026-05-26T18:31:22.403Z",
       "createdAt": "2026-05-26T16:38:47.316Z",
       "photoURL": "https://i.ibb.co/RkJf74wm/gooooojo2.jpg"
+    },
+    {
+      "email": "devkuzi@absolute.com",
+      "password": "",
+      "aks": "AKS-5P4CsU-g0KHxY-LvaZ8o-7aqhvb",
+      "firebaseUID": "lIjrbSxns3hvxxGmHyzDPYy68ou1",
+      "displayName": "",
+      "photoURL": "",
+      "dataLocation": "firestore:/users/lIjrbSxns3hvxxGmHyzDPYy68ou1",
+      "updatedAt": "2026-05-26T18:40:05.023Z",
+      "createdAt": "2026-05-26T18:40:05.023Z"
     }
   ]
 }
