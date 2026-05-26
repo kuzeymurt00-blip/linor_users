@@ -16,8 +16,9 @@
       "firebaseUID": "test456",
       "displayName": "Deneme Kullanici",
       "dataLocation": "firestore:/users/test456",
-      "updatedAt": "2026-05-26T16:34:08.231Z",
-      "createdAt": "2026-05-26T16:34:08.231Z"
+      "updatedAt": "2026-05-26T16:37:48.207Z",
+      "createdAt": "2026-05-26T16:34:08.231Z",
+      "aks": "AKS-RSMZ0R-4IatQw-Prqlkq-2Ut7fM"
     }
   ]
 }
