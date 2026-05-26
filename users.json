@@ -7,6 +7,15 @@
       "dataLocation": "firestore:/users/test123",
       "updatedAt": "2026-05-26T16:30:54.609Z",
       "createdAt": "2026-05-26T16:30:54.609Z"
+    },
+    {
+      "email": "deneme@linor.com",
+      "password": "sifre123",
+      "firebaseUID": "test456",
+      "displayName": "Deneme Kullanici",
+      "dataLocation": "firestore:/users/test456",
+      "updatedAt": "2026-05-26T16:34:08.231Z",
+      "createdAt": "2026-05-26T16:34:08.231Z"
     }
   ]
 }
