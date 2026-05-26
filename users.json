@@ -23,13 +23,14 @@
     },
     {
       "email": "kuzeymurt00@gmail.com",
-      "password": "madebykuziceo",
+      "password": "",
       "aks": "AKS-g8GhxZ-NaW6Ti-QNRW4s-dMXrjH",
       "firebaseUID": "OsY2BfD8nWc66BcOFbtlDnnaNa72",
       "displayName": "Kuzey Murat",
       "dataLocation": "firestore:/users/OsY2BfD8nWc66BcOFbtlDnnaNa72",
-      "updatedAt": "2026-05-26T16:38:47.316Z",
-      "createdAt": "2026-05-26T16:38:47.316Z"
+      "updatedAt": "2026-05-26T16:57:23.623Z",
+      "createdAt": "2026-05-26T16:38:47.316Z",
+      "photoURL": "https://i.ibb.co/zHTqsm1F/kimgojoun.jpg"
     }
   ]
 }
