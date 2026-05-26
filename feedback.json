@@ -1,0 +1,11 @@
+{
+  "feedback": [
+    {
+      "name": "Test Kullanici",
+      "email": "test@mail.com",
+      "message": "Bu bir test mesajidir",
+      "type": "feedback",
+      "createdAt": "2026-05-26T17:05:35.630Z"
+    }
+  ]
+}
